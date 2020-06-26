@@ -1,14 +1,14 @@
 # Todo-
 # Description,
 
-Login
-Dashboard For creating Todo List
-Menu
-providing Logout Facilities
-Toast showing the description activities
-Form For creating Todo
-recycle view
+1. Login
+2. Dashboard For creating Todo List
+3. Menu
+4. providing Logout Facilities
+5. Toast showing the description activities
+6. Form For creating Todo
+7. recycle view
 
 # Minimum System Requirements
-SDK tools installed properly
-Emulator must be installed
+1. SDK tools installed properly
+2. Emulator must be installed
